@@ -14,3 +14,10 @@ fruits = [
     ["dragon", "grape"],
 ]
 print(fruits[2][0])
+
+
+
+#2
+
+coordinates = {(0, 1),(2, 3),(4, 5)}
+print(coordinates[2][1])
